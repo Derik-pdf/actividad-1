@@ -1,0 +1,10 @@
+.texto-bonito {
+    color: #2c3e50;          /* Color del texto */
+    font-size: 24px;         /* Tamaño */
+    font-family: Arial, sans-serif; /* Tipo de letra */
+    font-weight: bold;       /* Negrita */
+    text-align: center;      /* Centrado */
+    letter-spacing: 2px;     /* Espaciado entre letras */
+    text-transform: uppercase; /* Todo en mayúsculas */
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.3); /* Sombra */
+}
